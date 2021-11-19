@@ -198,8 +198,6 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 ssh -T git@github.com
 ```
 
-![image-20211109213124801](images/image-20211109213124801.png)
-
 
 
 Create a new **nextapp** repository:
