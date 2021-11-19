@@ -235,10 +235,10 @@ Replace <github account> with your GitHub account name:
 git remote add origin git@github.com:<github account>/nextapp.git 
 ```
 
-Then push the local repository to your remote repository:
+Then push the local repository to your remote repository (you will need to use the --force the first time):
 
 ```
-git push -u origin main
+git push -u origin main 
 ```
 
 ![image-20211109220717046](images/image-20211109220717046.png)
